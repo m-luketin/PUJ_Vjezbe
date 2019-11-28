@@ -1,13 +1,12 @@
 package Vjezba3_PUJ;
 
-/**
- * Hello world!
- *
- */
+import Vjezba3_PUJ.classes.Watermeter;
+
 public class App 
 {
-    public static void main( String[] args )
+    public static void main (String args[])
     {
-        System.out.println( "Hello World!" );
+        Watermeter watermeter = new Watermeter();
+        watermeter.publish();
     }
 }
