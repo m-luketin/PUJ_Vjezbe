@@ -1,0 +1,37 @@
+{
+  "brokerAddress": "tcp://localhost:1883",
+  "sensors": [
+    {
+        "description": "Trenutna temperatura vode",
+        "dataType": "int16",
+        "factor": 10,
+        "lowerLimit": -32668,
+        "upperLimit":  32668,
+        "unitOfMeasurement": "Celzius"
+    },
+    {
+        "description": "Trenutni tlak vode",
+        "dataType": "uint16",
+        "factor": 1000,
+        "lowerLimit": 0,
+        "upperLimit":  65336,
+        "unitOfMeasurement": "Bar"
+    },
+    {
+        "description": "Potrošnja u zadnjih 1 min, 10 min, 1 sat, 1 dan",
+        "dataType": "uint16",
+        "factor": 1,
+        "lowerLimit": 0,
+        "upperLimit":  65336,
+        "unitOfMeasurement": "Litra"
+    },
+    {
+        "description": "Potrošnja u zadnjih 1 tjedan, 1 mjesec, 1 godinu",
+        "dataType": "uint16",
+        "factor": 10,
+        "lowerLimit": 0,
+        "upperLimit": 65336,
+        "unitOfMeasurement": "m3"
+      }
+  ]
+}
