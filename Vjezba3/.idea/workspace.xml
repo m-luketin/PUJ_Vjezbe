@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcef3422-b795-47e6-8432-3587fcb58d4a" name="Default Changelist" comment="" />
+    <list default="true" id="dcef3422-b795-47e6-8432-3587fcb58d4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Matija1213S-tcplocalhost1883/.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matija12313S-tcplocalhost1883/s-135.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/matija-tcplocalhost1883/.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/src/main/java/Vjezba5_PUJ/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/src/main/java/Vjezba5_PUJ/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/src/main/java/Vjezba5_PUJ/classes/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/src/main/java/Vjezba5_PUJ/classes/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/src/main/java/Vjezba5_PUJ/classes/SensorCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/src/main/java/Vjezba5_PUJ/classes/WaterDisplayDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/src/main/java/Vjezba5_PUJ/classes/WaterDisplayStatistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/src/main/java/Vjezba5_PUJ/classes/WaterStatisticFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/src/main/java/Vjezba5_PUJ/enums/UnitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/src/main/java/Vjezba5_PUJ/settings/uiconfiguration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/target/classes/Vjezba5_PUJ/Subscriber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/target/classes/Vjezba5_PUJ/classes/WaterDisplayDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba5/target/classes/Vjezba5_PUJ/classes/WaterDisplayStatistic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vjezba6/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vjezba3_PUJ/classes/Publisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vjezba3_PUJ/classes/Publisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vjezba3_PUJ/classes/Sensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vjezba3_PUJ/classes/Sensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vjezba3_PUJ/classes/Watermeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vjezba3_PUJ/classes/Watermeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Vjezba3_PUJ/classes/Publisher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Vjezba3_PUJ/classes/Publisher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Vjezba3_PUJ/classes/Sensor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Vjezba3_PUJ/classes/Sensor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Vjezba3_PUJ/classes/Watermeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Vjezba3_PUJ/classes/Watermeter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vjezba4/src/main/java/Vjezba4_PUJ/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Vjezba4/src/main/java/Vjezba4_PUJ/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vjezba4/target/classes/Vjezba4_PUJ/classes/Publisher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Vjezba4/target/classes/Vjezba4_PUJ/classes/Publisher.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +145,11 @@
       <workItem from="1574951094257" duration="995000" />
       <workItem from="1574952278386" duration="1590000" />
       <workItem from="1574955415827" duration="285000" />
+      <workItem from="1576772467177" duration="3926000" />
+      <workItem from="1578337045489" duration="610000" />
+      <workItem from="1578527355460" duration="1046000" />
+      <workItem from="1578575786367" duration="5387000" />
+      <workItem from="1578584469574" duration="1840000" />
     </task>
     <servers />
   </component>

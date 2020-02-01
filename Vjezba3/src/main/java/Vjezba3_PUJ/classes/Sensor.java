@@ -27,11 +27,12 @@ public class Sensor {
     @Override
     public String toString()
     {
-        return "\n" + Description +
-                ":\nTip podatka: " + DataType +
-                "\nFaktor: " + Factor +
-                "\nRaspon: " + Double.valueOf(LowerLimit)/Factor + " do " + Double.valueOf(UpperLimit)/Factor +
-                "\nJedinica: " + UnitOfMeasurement +
-                "\nTrenutna vrijednost: " + CurrentValue + "\n\n";
+        return "{ \"description\": \"" + Description +
+                "\", \"dataType\": \"" + DataType +
+                "\", \"factor\": \"" + Factor +
+                "\", \"lowerLimit\": \"" + LowerLimit +
+                "\", \"upperLimit\": \"" + UpperLimit +
+                "\", \"unitOfMeasurement\": \"" + UnitOfMeasurement +
+                "\", \"currentValue\": \"" + CurrentValue + "\" }";
     }
 }

@@ -11,7 +11,7 @@ public class Publisher
 
     public Publisher()
     {
-        String client = "Matija12313S";
+        String client = "Matija1213S";
         try
         {
             mqttClient = new MqttClient(BROKER, client);

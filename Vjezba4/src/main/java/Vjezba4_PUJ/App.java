@@ -2,7 +2,6 @@ package Vjezba4_PUJ;
 
 import Vjezba4_PUJ.classes.Watermeter;
 import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.io.File;
 import java.io.IOException;
 

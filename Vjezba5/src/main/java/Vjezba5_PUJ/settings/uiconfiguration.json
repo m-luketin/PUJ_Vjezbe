@@ -1,0 +1,19 @@
+{
+    "broker": "tcp://localhost:1883",
+    "clientId": "matija",
+    "topic": "topic",
+    "displays": [
+        {
+            "unitOfMeasurement": "Celsius"
+        },
+        {
+            "unitOfMeasurement": "Bar"
+        },
+        {
+            "unitOfMeasurement": "Liter"
+        },
+        {
+            "unitOfMeasurement": "CubicMeter"
+        }
+    ]
+}
